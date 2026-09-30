@@ -1,0 +1,27 @@
+{
+  "mcpServers": {
+    "attio": {
+      "url": "https://mcp.attio.com/mcp",
+      "transport": "http",
+      "_comment": "Attio CRM — companies, people, deals, tasks, notes"
+    },
+    "unipile": {
+      "url": "https://developer.unipile.com/mcp",
+      "transport": "http",
+      "_comment": "Unipile — LinkedIn messaging, profiles, posts, connections"
+    },
+    "anysite": {
+      "url": "https://mcp.anysite.io/mcp",
+      "transport": "http",
+      "_comment": "Anysite — LinkedIn scraping, web data, YouTube, Reddit"
+    },
+    "notion": {
+      "transport": "native",
+      "_comment": "Notion — search, fetch, create pages. Available via mcp__notion__* tools"
+    },
+    "slack": {
+      "transport": "native",
+      "_comment": "Slack — channels, messages, search. Available via mcp__slack__* tools"
+    }
+  }
+}
