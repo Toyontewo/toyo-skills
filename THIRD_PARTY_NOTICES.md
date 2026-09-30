@@ -1,66 +1,15 @@
 # Third-Party Notices
 
-This repository curates skills from several open-source projects. The root
-`LICENSE` covers original work by Toyo Ntewo; it does not replace the licenses
-and attribution listed below.
+This repository is a curated collection. The root `LICENSE` applies to Toyo Ntewo's original work and repository curation; it does not replace the terms attached to third-party material.
 
-## Marketing Skills
+| Entry | Source / author | Terms |
+| --- | --- | --- |
+| `artifacts-builder` | [Anthropic skills](https://github.com/anthropics/skills), adapted from `web-artifacts-builder` | Apache-2.0; included in the skill folder and `licenses/anthropic-skills-Apache-2.0.txt` |
+| `excalidraw-diagram` | [AY Automate / Ay-Skills](https://github.com/walidboulanouar/Ay-Skills) | MIT; see `licenses/ay-skills-MIT.txt` |
+| `mcp-client` | [AY Automate / Ay-Skills](https://github.com/walidboulanouar/Ay-Skills) | MIT; see `licenses/ay-skills-MIT.txt` |
+| `notebooklm` | [PleasePrompto / notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) via the local Agent Skills collection | Upstream project is MIT; the bundled entry is an installation and usage wrapper |
+| `skill-creator` | [Anthropic skills](https://github.com/anthropics/skills), combined with the local Agent Skills version | Apache-2.0; included in the skill folder and `licenses/anthropic-skills-Apache-2.0.txt` |
+| `stop-slop` | [Hardik Pandya / stop-slop](https://github.com/hardikpandya/stop-slop) | MIT; included in the skill folder and `licenses/stop-slop-MIT.txt` |
+| `upwork-ai-automation-proposal-generator` | [Toyo Ntewo](https://github.com/Toyontewo/upwork-ai-automation-proposal-generator) | Toyo Ntewo original work; repository MIT license applies |
 
-- **Skills:** all 41 skills in the README's Marketing section
-- **Author:** Corey Haines and contributors
-- **Source:** [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
-- **Snapshot:** `906c2fb28e471c5b1d149d4159ec5ddb40b7c364`
-- **License:** [MIT](licenses/marketingskills-MIT.txt)
-
-## Design Taste Skills
-
-- **Skills:** `design-taste-frontend`, `redesign-existing-projects`
-- **Author:** Leonxlnx and contributors
-- **Source:** [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)
-- **License:** [MIT](licenses/taste-skill-MIT.txt)
-
-## Vercel Skills
-
-- **Skill:** `find-skills`
-- **Author:** Vercel, Inc. and contributors
-- **Source:** [vercel-labs/skills](https://github.com/vercel-labs/skills)
-- **License:** [MIT](licenses/vercel-skills-MIT.txt)
-
-## Web Interface Guidelines
-
-- **Skill:** `web-design-guidelines`
-- **Author:** Vercel Labs and contributors
-- **Source:** [vercel-labs/web-interface-guidelines](https://github.com/vercel-labs/web-interface-guidelines)
-- **License:** [MIT](licenses/web-interface-guidelines-MIT.txt)
-
-## Reddit Automation
-
-- **Skill:** `reddit-automation`
-- **Author:** doany.ai and contributors
-- **Source:** [doany-skills/skills](https://github.com/doany-skills/skills)
-- **License:** [MIT](licenses/doany-skills-MIT.txt)
-
-## TypeSafe AI
-
-- **Skill:** `typesafe-ai`
-- **Author:** TypeSafe AI and contributors
-- **Source:** [typesafe-ai/skills](https://github.com/typesafe-ai/skills)
-- **License:** [MIT](licenses/typesafe-ai-MIT.txt)
-
-## Stop Slop
-
-- **Skill:** `stop-slop`
-- **Author:** [Hardik Pandya](https://hvpandya.com)
-- **License:** [MIT](licenses/stop-slop-MIT.txt)
-
-## Frontend Design
-
-- **Skill:** `frontend-design`
-- **Source:** OpenAI Codex skill distribution
-- **License:** [Apache License 2.0](licenses/frontend-design-Apache-2.0.txt)
-
-## Original Toyo Skill
-
-`upwork-ai-automation-proposal-generator` is maintained by Toyo Ntewo at
-[Toyontewo/upwork-ai-automation-proposal-generator](https://github.com/Toyontewo/upwork-ai-automation-proposal-generator)
-and is covered by this repository's root MIT license.
+The `agent-browser`, `claude-seo`, `remotion-best-practices`, `superpowers`, and `ui-ux-pro-max` directories contain installation notes only. Their upstream projects remain governed by their respective maintainers and licenses.
